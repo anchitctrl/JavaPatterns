@@ -5,8 +5,6 @@
 //* * * *
 //* * * * *
 
-import java.util.*;
-
 public class Pattern1 
 {
 
